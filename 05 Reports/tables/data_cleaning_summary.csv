@@ -1,0 +1,5 @@
+dataset,rows_before,rows_after,start_date,end_date,main_columns,cleaning_notes
+Crude oil flow,554,554,2025-01-01,2026-07-08,"date, crude_flow_index, crude_flow_ma7, crude_flow_prior_year_ma7",Renamed columns only; no rows dropped; zero values kept as genuine flow-collapse signal from 2026-02-28 onward.
+LNG flow,554,554,2025-01-01,2026-07-08,"date, lng_flow_index, lng_flow_ma7, lng_flow_prior_year_ma7",Renamed columns only; no rows dropped; zero values kept as genuine flow-collapse signal from 2026-02-28 onward.
+Ship arrivals,2743,2743,2019-01-01,2026-07-05,"date, container/dry_bulk/general_cargo/ro_ro/tanker_arrivals, total_ship_arrivals",Semicolon separator + comma decimal detected and parsed; renamed to English category names; total_ship_arrivals engineered as row-sum; source MA columns dropped (recomputed later if needed).
+Brent price,9922,9922,1987-05-20,2026-06-29,"date, brent_price, brent_return, brent_return_pct, brent_volatility_7d, brent_volatility_14d","Full history kept (1987-2026); trading-day frequency, not calendar-daily; does not extend to the 2026-07-08 benchmark."

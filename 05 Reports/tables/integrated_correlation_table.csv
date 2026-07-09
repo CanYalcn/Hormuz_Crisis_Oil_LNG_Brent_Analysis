@@ -1,0 +1,7 @@
+variable_1,variable_2,n_obs,pearson_r,variable_1_std_in_window
+crude_flow_index,brent_price,123,-0.759,53.25
+crude_flow_index,brent_return,123,0.078,53.25
+lng_flow_index,brent_price,123,-0.737,56.11
+lng_flow_index,brent_return,123,0.046,56.11
+total_ship_arrivals,brent_price,123,-0.782,36.57
+tanker_arrivals,brent_price,123,-0.761,20.8

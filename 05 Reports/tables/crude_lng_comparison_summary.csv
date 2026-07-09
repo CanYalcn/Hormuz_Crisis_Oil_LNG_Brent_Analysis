@@ -1,0 +1,5 @@
+metric,value
+"Correlation, full sample (2025-01-01 to latest)",0.661
+"Correlation, 2026 window only",0.867
+First zero-flow day observed,crude: 2026-03-07 | LNG: 2025-05-14
+Share of P2 (peak disruption) days at zero flow,crude: 69% | LNG: 97%

@@ -1,0 +1,31 @@
+vessel_category,period,period_label,observations,mean,median,min,max,std,pct_change_vs_P0
+total_ship_arrivals,P0,Pre-war baseline,58,80.47,75.5,48.0,152.0,21.57,0.0
+total_ship_arrivals,P1,War onset / initial shock,4,23.0,15.0,5.0,57.0,24.29,-71.4
+total_ship_arrivals,P2,Peak disruption,35,5.14,4.0,0.0,13.0,3.53,-93.6
+total_ship_arrivals,P3,Ceasefire / fragile normalization,89,11.44,8.0,0.0,52.0,10.79,-85.8
+total_ship_arrivals,P4,Ceasefire breakdown / renewed tensions,0,,,,,,
+tanker_arrivals,P0,Pre-war baseline,58,43.52,40.0,21.0,83.0,13.62,0.0
+tanker_arrivals,P1,War onset / initial shock,4,12.25,6.0,2.0,35.0,15.63,-71.9
+tanker_arrivals,P2,Peak disruption,35,1.34,1.0,0.0,5.0,1.68,-96.9
+tanker_arrivals,P3,Ceasefire / fragile normalization,89,4.58,2.0,0.0,23.0,5.62,-89.5
+tanker_arrivals,P4,Ceasefire breakdown / renewed tensions,0,,,,,,
+container_arrivals,P0,Pre-war baseline,58,13.93,13.0,4.0,33.0,5.78,0.0
+container_arrivals,P1,War onset / initial shock,4,2.75,2.0,0.0,7.0,3.1,-80.3
+container_arrivals,P2,Peak disruption,35,0.57,0.0,0.0,2.0,0.74,-95.9
+container_arrivals,P3,Ceasefire / fragile normalization,89,1.44,0.0,0.0,10.0,2.26,-89.7
+container_arrivals,P4,Ceasefire breakdown / renewed tensions,0,,,,,,
+dry_bulk_arrivals,P0,Pre-war baseline,58,14.0,13.5,5.0,24.0,4.52,0.0
+dry_bulk_arrivals,P1,War onset / initial shock,4,6.5,6.0,2.0,12.0,4.43,-53.6
+dry_bulk_arrivals,P2,Peak disruption,35,2.23,2.0,0.0,7.0,1.86,-84.1
+dry_bulk_arrivals,P3,Ceasefire / fragile normalization,89,3.8,3.0,0.0,20.0,3.13,-72.9
+dry_bulk_arrivals,P4,Ceasefire breakdown / renewed tensions,0,,,,,,
+general_cargo_arrivals,P0,Pre-war baseline,58,5.79,6.0,2.0,13.0,2.25,0.0
+general_cargo_arrivals,P1,War onset / initial shock,4,1.25,1.0,0.0,3.0,1.5,-78.4
+general_cargo_arrivals,P2,Peak disruption,35,1.0,1.0,0.0,4.0,1.19,-82.7
+general_cargo_arrivals,P3,Ceasefire / fragile normalization,89,1.55,1.0,0.0,6.0,1.35,-73.2
+general_cargo_arrivals,P4,Ceasefire breakdown / renewed tensions,0,,,,,,
+ro_ro_arrivals,P0,Pre-war baseline,58,3.22,3.0,0.0,7.0,1.55,0.0
+ro_ro_arrivals,P1,War onset / initial shock,4,0.25,0.0,0.0,1.0,0.5,-92.2
+ro_ro_arrivals,P2,Peak disruption,35,0.0,0.0,0.0,0.0,0.0,-100.0
+ro_ro_arrivals,P3,Ceasefire / fragile normalization,89,0.07,0.0,0.0,1.0,0.25,-97.9
+ro_ro_arrivals,P4,Ceasefire breakdown / renewed tensions,0,,,,,,

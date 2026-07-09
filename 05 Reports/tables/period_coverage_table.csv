@@ -1,0 +1,21 @@
+dataset,period,period_label,start_date_available,end_date_available,observations,can_analyze_period_yes_no
+Crude oil flow,P0,Pre-war baseline,2026-01-01,2026-02-27,58,Yes
+Crude oil flow,P1,War onset / initial shock,2026-02-28,2026-03-03,4,No
+Crude oil flow,P2,Peak disruption,2026-03-04,2026-04-07,35,Yes
+Crude oil flow,P3,Ceasefire / fragile normalization,2026-04-08,2026-07-07,91,Yes
+Crude oil flow,P4,Ceasefire breakdown / renewed tensions,2026-07-08,2026-07-08,1,No
+LNG flow,P0,Pre-war baseline,2026-01-01,2026-02-27,58,Yes
+LNG flow,P1,War onset / initial shock,2026-02-28,2026-03-03,4,No
+LNG flow,P2,Peak disruption,2026-03-04,2026-04-07,35,Yes
+LNG flow,P3,Ceasefire / fragile normalization,2026-04-08,2026-07-07,91,Yes
+LNG flow,P4,Ceasefire breakdown / renewed tensions,2026-07-08,2026-07-08,1,No
+Ship arrivals,P0,Pre-war baseline,2026-01-01,2026-02-27,58,Yes
+Ship arrivals,P1,War onset / initial shock,2026-02-28,2026-03-03,4,No
+Ship arrivals,P2,Peak disruption,2026-03-04,2026-04-07,35,Yes
+Ship arrivals,P3,Ceasefire / fragile normalization,2026-04-08,2026-07-05,89,Yes
+Ship arrivals,P4,Ceasefire breakdown / renewed tensions,,,0,No
+Brent price,P0,Pre-war baseline,2026-01-02,2026-02-27,41,Yes
+Brent price,P1,War onset / initial shock,2026-03-02,2026-03-03,2,No
+Brent price,P2,Peak disruption,2026-03-04,2026-04-07,23,Yes
+Brent price,P3,Ceasefire / fragile normalization,2026-04-08,2026-06-29,57,Yes
+Brent price,P4,Ceasefire breakdown / renewed tensions,,,0,No

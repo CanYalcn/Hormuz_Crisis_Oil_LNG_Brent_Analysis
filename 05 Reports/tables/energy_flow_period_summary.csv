@@ -1,0 +1,11 @@
+commodity,period,period_label,observations,mean,median,min,max,std,mean_ma7,pct_change_vs_P0
+crude_oil,P0,Pre-war baseline,58,105.27,99.67,28.91,177.78,32.75,106.17,0.0
+crude_oil,P1,War onset / initial shock,4,21.05,16.35,14.43,37.07,10.78,71.11,-80.0
+crude_oil,P2,Peak disruption,35,5.4,0.0,0.0,44.63,11.67,7.61,-94.9
+crude_oil,P3,Ceasefire / fragile normalization,91,3.15,0.0,0.0,42.89,8.04,3.09,-97.0
+crude_oil,P4,Ceasefire breakdown / renewed tensions,1,0.0,0.0,0.0,0.0,,7.38,-100.0
+lng,P0,Pre-war baseline,58,109.98,108.2,28.32,206.51,36.93,109.84,0.0
+lng,P1,War onset / initial shock,4,23.7,13.28,0.0,68.25,32.23,71.09,-78.4
+lng,P2,Peak disruption,35,0.78,0.0,0.0,27.14,4.59,3.16,-99.3
+lng,P3,Ceasefire / fragile normalization,91,1.39,0.0,0.0,41.61,6.68,1.23,-98.7
+lng,P4,Ceasefire breakdown / renewed tensions,1,0.0,0.0,0.0,0.0,,3.67,-100.0

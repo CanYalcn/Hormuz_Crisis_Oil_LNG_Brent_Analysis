@@ -1,0 +1,6 @@
+period,period_label,observations,mean,median,min,max,std,pct_change_vs_P0,mean_return_pct,return_volatility_pct
+P0,Pre-war baseline,41,68.69,69.87,61.08,73.17,3.2,0.0,0.391,2.146
+P1,War onset / initial shock,2,80.26,80.26,77.24,83.28,4.27,16.8,8.06,0.34
+P2,Peak disruption,23,108.43,108.42,81.56,138.21,14.39,57.8,2.404,6.078
+P3,Ceasefire / fragile normalization,57,101.83,103.48,70.16,124.24,15.19,48.2,-1.059,4.168
+P4,Ceasefire breakdown / renewed tensions,0,,,,,,,,
